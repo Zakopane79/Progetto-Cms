@@ -1,4 +1,4 @@
 <?php
 // Dashboard di amministrazione
-echo "Benvenuto nella Dashboard di Amministrazione";
+echo "Benvenuto nella Dashboard di Amministrazione Claudia";
 ?> 
